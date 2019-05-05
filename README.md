@@ -1,11 +1,14 @@
-# screamingRobot
-                                               .__       .__  __          
+# ScreamingRobot
+```                                               .__       .__  __          
 _____________   ___________   ____  ________ __|__| _____|__|/  |_  ____  
 \____ \_  __ \_/ __ \_  __ \_/ __ \/ ____/  |  \  |/  ___/  \   __\/ __ \ 
 |  |_> >  | \/\  ___/|  | \/\  ___< <_|  |  |  /  |\___ \|  ||  | \  ___/ 
 |   __/|__|    \___  >__|    \___  >__   |____/|__/____  >__||__|  \___  >
 |__|               \/            \/   |__|             \/              \/ 
+```
+
+### prerequisites
 
 Install vlc on your raspy:
-sudo apt-get install vlc
-sudo pip install python-vlc
+* sudo apt-get install vlc
+* sudo pip install python-vlc
